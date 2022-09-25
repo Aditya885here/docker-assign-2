@@ -1,0 +1,3 @@
+/mnt/game-of-life/gameoflife-web/src/test/java/com/wakaleo/gameoflife/webtests/controllers/WhenSpawningANewGeneration.java
+/mnt/game-of-life/gameoflife-web/src/test/java/com/wakaleo/gameoflife/webtests/controllers/WhenDisplayingTheHomePage.java
+/mnt/game-of-life/gameoflife-web/src/test/java/com/wakaleo/gameoflife/webtests/controllers/WhenCreatingANewGame.java
